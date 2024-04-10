@@ -15,6 +15,7 @@
    <img src="https://github-profile-trophy.vercel.app/?username=No78Vino&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
+<!--
 <p align="center">
   <a href="#">
     <img width="400" align="top" src="github-metrics-left.svg" />
@@ -24,5 +25,6 @@
     <img width="400" align="top" src="github-metrics-right.svg" />
   </a>
 </p>
+-->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=No78Vino&theme=flat&no-frame=true&include_all_commits=true&show_icons=true" /> -->
